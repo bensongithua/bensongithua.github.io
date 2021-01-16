@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSV models on Benson Githinga</title>
+    <link>/tags/rsv-models/</link>
+    <description>Recent content in RSV models on Benson Githinga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021 Ben Githinga</copyright>
+    <lastBuildDate>Tue, 23 Oct 2018 15:18:53 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/rsv-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RSV vaccine modelling</title>
+      <link>/project/rsv/</link>
+      <pubDate>Tue, 23 Oct 2018 15:18:53 +0100</pubDate>
+      
+      <guid>/project/rsv/</guid>
+      <description>RSV is one of the main viral causes of pneumonia in young children. There is no licenced vaccine against RSV but there are some which are under development. In this project, we aim to develop an RSV mathematical model to investigate the various vaccination strategies for its control in both developing and developed country settings. We also aim to identify important vaccine characteristics.</description>
+    </item>
+    
+    <item>
+      <title>Defining the vaccination window for respiratory syncytial virus (RSV) using age-seroprevalence data for children in Kilifi, Kenya</title>
+      <link>/publication/seroprevalence/</link>
+      <pubDate>Mon, 22 May 2017 13:19:52 +0100</pubDate>
+      
+      <guid>/publication/seroprevalence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the relative impacts of maternal and neonatal respiratory syncytial virus (RSV) vaccine target product profiles: A consensus modelling approach</title>
+      <link>/publication/rsv_gsk_kilifi/</link>
+      <pubDate>Thu, 05 Jan 2017 13:26:31 +0100</pubDate>
+      
+      <guid>/publication/rsv_gsk_kilifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaccine Induced Herd Immunity for Control of Respiratory Syncytial Virus Disease in a Low-Income Country Setting</title>
+      <link>/publication/rsv_vaccination/</link>
+      <pubDate>Mon, 21 Sep 2015 22:44:55 +0100</pubDate>
+      
+      <guid>/publication/rsv_vaccination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the transmission dynamics of RSV and the impact of routine vaccination</title>
+      <link>/publication/phdthesis/</link>
+      <pubDate>Fri, 30 Aug 2013 14:02:35 +0100</pubDate>
+      
+      <guid>/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

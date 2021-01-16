@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Benson Githinga</title>
+    <link>/publication_types/5/</link>
+    <description>Recent content in 5 on Benson Githinga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021 Ben Githinga</copyright>
+    <lastBuildDate>Fri, 30 Aug 2013 14:02:35 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelling the transmission dynamics of RSV and the impact of routine vaccination</title>
+      <link>/publication/phdthesis/</link>
+      <pubDate>Fri, 30 Aug 2013 14:02:35 +0100</pubDate>
+      
+      <guid>/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

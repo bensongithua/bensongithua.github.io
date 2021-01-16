@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Benson Githinga</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Benson Githinga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021 Ben Githinga</copyright>
+    <lastBuildDate>Tue, 23 Oct 2018 18:15:41 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Household regression</title>
+      <link>/project/hhregression/</link>
+      <pubDate>Tue, 23 Oct 2018 18:15:41 +0100</pubDate>
+      
+      <guid>/project/hhregression/</guid>
+      <description>The simplest epidemiological regression models assume that an individual’s disease risk is driven by their covariates such as age, lifestyle and socio-economic status. Traditionally, observations are assumed to be independent. However, there are more complex models in routine use that allow for fixed or random effects associated with subgroup membership in a hierarchical framework. The reality however is often much more complex than this and requires novel, mathematically sophisticated, data science methodology to be developed.</description>
+    </item>
+    
+    <item>
+      <title>Computational methods</title>
+      <link>/project/efficientmethods/</link>
+      <pubDate>Tue, 23 Oct 2018 17:59:41 +0100</pubDate>
+      
+      <guid>/project/efficientmethods/</guid>
+      <description>In the context of an ageing population, understanding the transmission of infectious diseases such as scabies through well-connected sub-units of the population, such as residential care homes, is particularly important for the design of efficient interventions to mitigate against the effects of those diseases. Here, we develop a modelling methodology based on the efficient solution of a large-scale system of linear differential equations that allows statistical calibration of individual-based random models to real data on scabies in residential care homes.</description>
+    </item>
+    
+    <item>
+      <title>Optimal design of experiments</title>
+      <link>/project/optimaldesign/</link>
+      <pubDate>Tue, 23 Oct 2018 15:46:53 +0100</pubDate>
+      
+      <guid>/project/optimaldesign/</guid>
+      <description>Household structure is a key driver of many infectious diseases, as well as a natural target for interventions such as vaccination programs. Many theoretical and conceptual advances on household-stratified epidemic models are relatively recent, but have successfully managed to increase the applicability of such models to practical problems. To be of maximum realism and hence benefit, they require parameterisation from epidemiological data, and while household-stratified final size data has been the traditional source, increasingly time-series infection data from households are becoming available.</description>
+    </item>
+    
+    <item>
+      <title>RSV vaccine modelling</title>
+      <link>/project/rsv/</link>
+      <pubDate>Tue, 23 Oct 2018 15:18:53 +0100</pubDate>
+      
+      <guid>/project/rsv/</guid>
+      <description>RSV is one of the main viral causes of pneumonia in young children. There is no licenced vaccine against RSV but there are some which are under development. In this project, we aim to develop an RSV mathematical model to investigate the various vaccination strategies for its control in both developing and developed country settings. We also aim to identify important vaccine characteristics.</description>
+    </item>
+    
+  </channel>
+</rss>

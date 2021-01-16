@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Benson Githinga</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Benson Githinga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021 Ben Githinga</copyright>
+    <lastBuildDate>Mon, 26 Mar 2018 23:04:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scabies in residential care homes: Modelling, inference and interventions for well-connected population sub-units</title>
+      <link>/publication/scabies_computational/</link>
+      <pubDate>Mon, 26 Mar 2018 23:04:00 +0100</pubDate>
+      
+      <guid>/publication/scabies_computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining the vaccination window for respiratory syncytial virus (RSV) using age-seroprevalence data for children in Kilifi, Kenya</title>
+      <link>/publication/seroprevalence/</link>
+      <pubDate>Mon, 22 May 2017 13:19:52 +0100</pubDate>
+      
+      <guid>/publication/seroprevalence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the relative impacts of maternal and neonatal respiratory syncytial virus (RSV) vaccine target product profiles: A consensus modelling approach</title>
+      <link>/publication/rsv_gsk_kilifi/</link>
+      <pubDate>Thu, 05 Jan 2017 13:26:31 +0100</pubDate>
+      
+      <guid>/publication/rsv_gsk_kilifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information content of household-stratified epidemics</title>
+      <link>/publication/information/</link>
+      <pubDate>Sun, 11 Sep 2016 13:34:59 +0100</pubDate>
+      
+      <guid>/publication/information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors</title>
+      <link>/publication/contact_sensors/</link>
+      <pubDate>Tue, 14 Jun 2016 13:11:46 +0100</pubDate>
+      
+      <guid>/publication/contact_sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaccine Induced Herd Immunity for Control of Respiratory Syncytial Virus Disease in a Low-Income Country Setting</title>
+      <link>/publication/rsv_vaccination/</link>
+      <pubDate>Mon, 21 Sep 2015 22:44:55 +0100</pubDate>
+      
+      <guid>/publication/rsv_vaccination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying age-related rates of social contact using diaries in a rural coastal population of Kenya</title>
+      <link>/publication/social_contacts/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/social_contacts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
